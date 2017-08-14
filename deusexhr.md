@@ -1,12 +1,15 @@
 # Deus Ex: Human Revolution
+
 ## item codes
-XX YY 00 00 01 AA BB CC 
 
-XXYY - item code 
+XX YY 00 00 01 AA BB CC
 
-AA - horizontal or vertical (00 horizontal , 01 vertical) 
+XXYY - item code
 
-BB CC - quantity 
+AA - horizontal or vertical \(00 horizontal , 01 vertical\)
+
+BB CC - quantity
+
 |name|id|
 |---|---|
 |Tranquilizer Rifle|4D 73 |
@@ -84,9 +87,3 @@ BB CC - quantity
 |Whiskey|1B 4F |
 |Beer|50 2E |
 |Beer|99 40|
-
-
-
-
-
-

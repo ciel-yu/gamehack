@@ -6,14 +6,14 @@
 
 0xA411 FF FF -> CD 06
 
-before: SHA1:005b5de77cd21b62c38d8b505d80beb35b6fb6c6
+before: `SHA1:005b5de77cd21b62c38d8b505d80beb35b6fb6c6`
 ```
             0  1  2  3  4  5  6  7   8  9  A  B  C  D  E  F
 0000A400   -- -- -- -- -- -- -- --  -- -- B2 10 A1 30 5E 86
 0000A410   E0 FF FF C3 B3 -- -- --  -- -- -- -- -- -- -- --
 ```
 
-after: SHA1:07233fd315086bd917b3ba6a150ece306c302417
+after: `SHA1:07233fd315086bd917b3ba6a150ece306c302417`
 ```
             0  1  2  3  4  5  6  7   8  9  A  B  C  D  E  F
 0000A400   -- -- -- -- -- -- -- --  -- -- B2 10 A1 30 5E 86
@@ -22,7 +22,7 @@ after: SHA1:07233fd315086bd917b3ba6a150ece306c302417
 
 ### ROOT.LBX
 
-before: SHA1:88e5e353a1f2bca82d342f846d9f98ef5e948266
+before: `SHA1:88e5e353a1f2bca82d342f846d9f98ef5e948266`
 ```
             0  1  2  3  4  5  6  7   8  9  A  B  C  D  E  F
 0001A2A0   -- -- -- -- -- -- -- --  -- -- 3B 06 -- -- 75 DC
@@ -30,7 +30,7 @@ before: SHA1:88e5e353a1f2bca82d342f846d9f98ef5e948266
 0001A2C0   -- -- 75 C8 -- -- -- --  -- -- -- -- -- -- -- --
 ```
 
-after: SHA1:a5add56c1524d7432d28f7a6755771de34f22da4
+after: `SHA1:a5add56c1524d7432d28f7a6755771de34f22da4`
 ```
             0  1  2  3  4  5  6  7   8  9  A  B  C  D  E  F
 0001A2A0   -- -- -- -- -- -- -- --  -- -- 90 A3 -- -- 90 90
